@@ -4,3 +4,6 @@ ANN based 2 input AND gate
 <br /> Input Layer: 2 input neurons with ReLu ( Rectified Linear Unit ) activation function <br />
 <br /> Hidden Layer: 12 hidden neurons with Tanh activation function <br />
 <br /> Output Layer: 1 output neurons with Sigmoid activation function <br />
+
+# Video Link :
+<br /> https://youtu.be/RrIonRhZ_ZA <br />
