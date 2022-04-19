@@ -1,5 +1,8 @@
 # ANN-based-2-input-AND-gate
-ANN based 2 input AND gate 
+<br /> Project Description:
+Developed ANN (Artificial Neural Network) based 2 input AND gate from scratch without using TensorFlow or Pytorch Framework
+
+
 # 3 layer Artificial Neural Network
 <br /> Input Layer: 2 input neurons with ReLu ( Rectified Linear Unit ) activation function <br />
 <br /> Hidden Layer: 12 hidden neurons with Tanh activation function <br />
